@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### I'm Vihaan.
+
+- 🔭 I’m currently working on setting up my online Portfolio
+- 🌱 I’m currently learning JavaScript
+- 🤔 Interest in learning Python and Java
+- 📫 How to reach me: [mailto:sharmavihaan190@gmail.com](sharmavihaan190@gmail.com)
+
+
 <!--
 **Lemirq/Lemirq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
