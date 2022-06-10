@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on setting up my online Portfolio
 - 🌱 I’m currently learning JavaScript
 - 🤔 Interest in learning Python and Java
-- 📫 How to reach me: [mailto:sharmavihaan190@gmail.com](sharmavihaan190@gmail.com)
+- 📫 How to reach me: [sharmavihaan190@gmail.com](mailto:sharmavihaan190@gmail.com)
 
 
 <!--
