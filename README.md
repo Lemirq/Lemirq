@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### I'm Vihaan.
+### I'm Vihaan. A High School Student.
+
+### In Canada.
 
 - 🔭 I’m currently working on setting up my online Portfolio
 - 🌱 I’m currently learning JavaScript
