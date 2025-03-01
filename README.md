@@ -5,8 +5,6 @@
 ### In Canada.
 
 - 🔭 I’m currently working on making awesome projects!
-- 🌱 I’m currently learning Backend, Java, NextJS
-- 🤔 Interest in learning Python, LLM, ML
 - 📫 How to reach me: [sharmavihaan190@gmail.com](mailto:sharmavihaan190@gmail.com)
 
 
