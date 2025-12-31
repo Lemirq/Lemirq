@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Vihaan. A High School Student.
+### I'm Vihaan. A student at UofT.
 
 ### In Canada.
 
