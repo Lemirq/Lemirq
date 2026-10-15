@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-### I'm Vihaan. A student at UofT.
-
-### In Canada.
-
-- 🔭 I’m currently working on making awesome projects!
-- 📫 How to reach me: [sharmavihaan190@gmail.com](mailto:sharmavihaan190@gmail.com)
-
+### I'm Vihaan.
 
 <!--
 **Lemirq/Lemirq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
