@@ -2,6 +2,8 @@
 
 ### I'm Vihaan.
 
+the good stuff is in private repos ;)
+
 <!--
 **Lemirq/Lemirq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
